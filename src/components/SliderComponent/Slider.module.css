@@ -1,0 +1,14 @@
+.gg{
+    width: 500px;
+    margin: 0 auto;
+}
+
+.gp{
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.507);
+    padding: 10px;
+}
+
+.gp p, .gp h5{
+    color: white;
+}
